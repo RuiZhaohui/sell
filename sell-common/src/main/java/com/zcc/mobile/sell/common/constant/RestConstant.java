@@ -14,6 +14,8 @@ public interface RestConstant {
 
     String LIST = "/list";
 
+    String PAGE = "/page";
+
     String DETAIL = "/detail";
 
     String CREATE = "/create";
